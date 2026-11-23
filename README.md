@@ -8,7 +8,7 @@ The DOI of the paper is: https://doi.org/10.1016/j.cities.2026.107669
 
 - https://yesicon.app/
 - https://www.iconfont.cn/
-- https://iconpark.oceanengine.com/home
+- https://iconpark.oceanengine.com/home      
 These platforms offer a wide selection of icons of high quality and are valuable resources for design and development. We sincerely thank all contributors to open source, including independent developers and organizations, for their important contributions to technology and society.
 
 
